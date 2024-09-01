@@ -21,3 +21,9 @@ Learning
 - [ ] graphQL Document
 - [ ] git
 - [ ] book of Refactor
+
+<h2 align="center">⭐️ My Github Stats:</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leo41271&show_icons=true&theme=dracula&hide=issues&hide_border=false" />
+</p>
