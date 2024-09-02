@@ -42,3 +42,7 @@ Learning
 <img  alt="GitHub Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=leo41271&theme=dark&hide_border=false" /></a>
 <a href="https://leetcode.com/u/leo41271/"><img width="49%" src="https://leetcode.card.workers.dev/leo41271?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
+
+### 🎯GitHub Contributions
+<!-- ![snake gif](https://raw.githubusercontent.com/leo41271/leo41271/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://raw.githubusercontent.com/leo41271/leo41271/output/github-contribution-grid-snake-dark.svg)
