@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leo41271&left_text=Page%20views" alt="visitor badge" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leo41271&left_text=Page%20views" alt="visitor badge" /> -->
 <h1 align="center"><br />
 <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&size=32&pause=1000&color=29C9F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Leo;try+to+do+what+I+can't+do." />
 </h1>
