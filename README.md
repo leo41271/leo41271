@@ -9,7 +9,7 @@
 
 - 😄 In addition, I am currently implementing the goal I set for myself, which is to read the documentation of Vue-related ecological technologies and ensure and reflect my learning process through actual program exercises.
 
-<h2 align="center">📓 Todo </h2>  
+<h2>📓 Todo </h2>
 Learning
 
 - [x] Vue3 Official Document & Vue Router
@@ -34,9 +34,11 @@ Learning
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-<h2 align="center">⭐️ My Github Stats:</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">📊 Statistical Status⭐️</h2>
 <p align="center">
-<img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leo41271&show_icons=true&theme=dark&hide=issues&hide_border=false" />  
-<img  alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=leo41271&theme=dark&hide_border=false" />
+<a href="https://github.com/leo41271">
+<img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=leo41271&show_icons=true&theme=dark&hide=issues&hide_border=false" /></a>
+<a href="https://github.com/leo41271">
+<img  alt="GitHub Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=leo41271&theme=dark&hide_border=false" /></a>
+<a href="https://leetcode.com/u/leo41271/"><img width="49%" src="https://leetcode.card.workers.dev/leo41271?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>

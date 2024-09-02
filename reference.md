@@ -6,12 +6,15 @@
 [Skill Icons](https://github.com/tandpfun/skill-icons)\
 [Contributions Snake](https://github.com/Platane/snk)\
 [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)\
-[Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+[Readme Stats](https://github.com/anuraghazra/github-readme-stats)\
+[LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
 
 # github user 參考
 
-[大赵同学!](https://github.com/webyang-male)  
-[WeiWei markdown](https://github.com/WeiYun0912/WeiYun0912/blob/main/README.md?plain=1)  
-[林彥成 | 前端三分鐘](https://github.com/LinYenCheng/LinYenCheng)  
-[salesp07](https://github.com/salesp07/salesp07/tree/main)  
-[twtrubiks](https://github.com/twtrubiks)
+[大赵同学!](https://github.com/webyang-male)\
+[WeiWei markdown](https://github.com/WeiYun0912/WeiYun0912/blob/main/README.md?plain=1)\
+[林彥成 | 前端三分鐘](https://github.com/LinYenCheng/LinYenCheng)\
+[salesp07](https://github.com/salesp07/salesp07/tree/main)\
+[twtrubiks](https://github.com/twtrubiks)\
+[tandpfun](https://github.com/tandpfun) (可收合內容)\
+[drknzz](https://github.com/drknzz) 這位大老有 leetcode 挑戰狀態 !!!
